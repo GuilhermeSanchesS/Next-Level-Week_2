@@ -1,4 +1,5 @@
 # <Next-Level-Week_2>
+Projeto realizado durante a semana @NLW da Rocketseat
 
 ## Para Instalar
 1. passo: Inatale:
