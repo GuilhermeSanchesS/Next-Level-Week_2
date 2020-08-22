@@ -18,7 +18,7 @@ npm install nunjucks
 npm install sqlite-async
 ```
 
-## Para rodar o projeto:
+## Para rodar o projeto: 🚀
 
 ```sh
 npm run dev
