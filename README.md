@@ -1,4 +1,4 @@
-# <Next-Level-Week_2>
+# <Next-Level-Week_2> ⚛
 Projeto realizado durante a semana NLW#2 da Rocketseat
 <p align="center">
   <img alt="License" src="./docs/NLW.gif">
